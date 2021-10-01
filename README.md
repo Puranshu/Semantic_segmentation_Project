@@ -2,7 +2,7 @@
 
 - This repository contain one [raw code file](https://github.com/Puranshu/Semantic_segmentation_Project/blob/main/Semantic%20Segmentation%20-%20Complete.ipynb) and [one errored file](https://github.com/Puranshu/Semantic_segmentation_Project/blob/main/Semantic%20Segmentation_Error.ipynb).
 
-- Error occured while executing because : Service limit was reached for **trainingjob** instance, had = 0, required = 1.  
+- Error occured while executing because : Service limit was reached for trainingjob instance, had = 0, required = 1.  
 
 ## Aim 
 ![Original](https://github.com/Puranshu/Semantic_segmentation_Project/blob/main/Original%20image.png) to ![Segmented](https://github.com/Puranshu/Semantic_segmentation_Project/blob/main/Segmented%20image.png)
