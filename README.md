@@ -26,9 +26,9 @@
 
 - Before training process, we need to set the inputs for training job in same manner as we created bucket list folders.
 
-- Now we launch the training job using instance of sagemaker estimator.(I got error here because of limitations of free AWS package)
+- Now we launch the training job using instance of sagemaker estimator(I got error here because of limitations of free AWS package).
 
-- Now, we have to deploy this model now for predictions.
+- Now, we have to deploy this model for predictions.
 
 - After that we will plot the output image from our deployed model for an image from validation set(which was not used for training purpose).
 
