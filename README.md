@@ -28,7 +28,7 @@
 
 - Now we launch the training job using instance of sagemaker estimator(I got error here because of limitations of free AWS package).
 
-- Now, we have to deploy this model for predictions.
+- Now, we need to deploy this model for predictions.
 
 - After that we will plot the output image from our deployed model for an image from validation set(which was not used for training purpose).
 
